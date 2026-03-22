@@ -98,7 +98,11 @@ MongoDB connection closed.
 ### Database Connection
 
 The application connects to MongoDB at:
+<<<<<<< HEAD
 - **URI**: `mongodb://localhost:27017`
+=======
+- **URI**: `*****************`
+>>>>>>> 0c5304b84133eb5238a409b5334338c2e3c6fa7a
 - **Database**: `TS_Academy`
 
 To change the connection settings, modify the `uri` and `dbName` variables in `dbConnect.js`.
@@ -132,4 +136,8 @@ The application includes comprehensive error handling for:
 
 ## License
 
+<<<<<<< HEAD
 This project is created for educational purposes as part of a MongoDB and Node.js learning assignment.
+=======
+This project is created for educational purposes as part of a MongoDB and Node.js learning assignment.
+>>>>>>> 0c5304b84133eb5238a409b5334338c2e3c6fa7a
